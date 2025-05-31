@@ -22,7 +22,7 @@ A modern todo list application built with Node.js, React, and MySQL.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tetikmustafa/getting-started-app.git
+   git clone https://github.com/tetikmustafa/docker-workshop-app.git
    cd getting-started-app
    ```
 
